@@ -3,7 +3,7 @@
 Flappy Bird, being a product of 2014, was not produced for 64-bit devices. Google stopped including 32-bit ABIs starting with the Pixel 7 and many phones released since then are also 64-bit only. Additionally, Android 14+ blocks on-device installation of apps targeting Android versions below 6.0. Android 15 raised this requirement to 7.0.
 
 ### How
-Download the APK in this repository or follow these directions to patch it yourself.
+Download [the APK in this repository](https://github.com/Lesking72/FlappyBird-patch/raw/refs/heads/master/com.dotgears.flappybird-anyarch+api_patched.apk) or follow these directions to patch it yourself.
 
 You need [Java](https://adoptium.net/), [apktool](https://apktool.org/), and [uber-apk-signer](https://github.com/patrickfav/uber-apk-signer)
 
